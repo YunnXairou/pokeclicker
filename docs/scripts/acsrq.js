@@ -3085,7 +3085,7 @@ async function ballBot() {
                 shop = [ViridianCityShop, LavenderTownShop, FuchsiaCityShop][buyOpts];
                 break;
             case GameConstants.Region.johto:
-                shop = [NewBarkTownShop, GoldenrodDepartmentStoreShop, GoldenrodDepartmentStoreShop][buyOpts];
+                shop = [CherrygroveCityShop, GoldenrodDepartmentStoreShop, GoldenrodDepartmentStoreShop][buyOpts];
                 break;
             case GameConstants.Region.hoenn:
                 shop = [OldaleTownShop, SlateportCityShop, FortreeCityShop][buyOpts];
